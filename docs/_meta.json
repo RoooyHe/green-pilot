@@ -1,0 +1,6 @@
+[
+  { "type": "file", "name": "main", "label": "项目概述" },
+  { "type": "dir", "name": "background", "label": "背景介绍" },
+  { "type": "dir", "name": "code", "label": "技术方案" },
+  { "type": "dir", "name": "business", "label": "商业计划" }
+]

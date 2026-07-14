@@ -1,0 +1,5 @@
+[
+  { "type": "file", "name": "platform-scenario", "label": "京瓦中心" },
+  { "type": "file", "name": "camp-introduction", "label": "OpenCamp" },
+  { "type": "file", "name": "other-team", "label": "OtherTeam" }
+]

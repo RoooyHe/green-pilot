@@ -1,0 +1,15 @@
+{
+  "name": "greenpilot",
+  "version": "1.0.0",
+  "description": "GreenPilot - AI零碳温室智能运营平台文档",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "rspress dev",
+    "build": "rspress build",
+    "preview": "rspress preview"
+  },
+  "dependencies": {
+    "@rspress/core": "^2.0.0"
+  }
+}

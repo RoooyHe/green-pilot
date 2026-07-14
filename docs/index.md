@@ -1,0 +1,24 @@
+---
+pageType: home
+description: GreenPilot — 融合数字孪生、AI Agent与农业机器人的AI零碳温室智能运营平台
+hero:
+  name: GreenPilot
+  text: AI零碳温室智能运营平台
+  tagline: 融合数字孪生、AI Agent 与农业机器人，实现温室能源优化、碳管理、环境控制和经营决策的一体化平台
+  actions:
+    - theme: brand
+      text: 项目概述
+      link: /main
+    - theme: alt
+      text: 系统架构
+      link: /background/architecture
+features:
+  - title: AI环境助手
+    details: 分析温度、湿度、CO₂、VPD、光照，自动给出运营建议
+  - title: AI能源助手
+    details: 计算光伏、储能、峰谷电，预测未来电价，推荐最优用电策略
+  - title: AI碳管理
+    details: 自动生成碳排放、碳减排、ESG报告
+  - title: AI风险预测
+    details: 预测病虫害风险、冻害、高温、设备故障
+---
