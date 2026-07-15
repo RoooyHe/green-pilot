@@ -26,3 +26,13 @@
 
 - [MVP 分期落地路径](/green-pilot/code/custom-mvp.md#mvp-分期落地路径)
 - [技术干货补充](/green-pilot/code/custom-mvp.md#技术干货补充)
+
+### [Week 1 路线图](/green-pilot/code/week1-roadmap.md)
+
+- [本周目标](/green-pilot/code/week1-roadmap.md#本周目标)
+- [Day 1-2：无人机技术（7月13-14日）](/green-pilot/code/week1-roadmap.md#day-1-2无人机技术7月13-14日)
+- [Day 3-4：采摘机器人（7月15-16日）](/green-pilot/code/week1-roadmap.md#day-3-4采摘机器人7月15-16日)
+- [Day 5-7：辰龙系统实战（7月17-19日）](/green-pilot/code/week1-roadmap.md#day-5-7辰龙系统实战7月17-19日)
+- [硬件采购清单](/green-pilot/code/week1-roadmap.md#硬件采购清单)
+- [学习资源](/green-pilot/code/week1-roadmap.md#学习资源)
+- [本周里程碑](/green-pilot/code/week1-roadmap.md#本周里程碑)
