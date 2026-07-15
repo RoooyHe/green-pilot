@@ -48,3 +48,11 @@
 - [Week 5：前端与数字孪生（8/10-8/16）](/green-pilot/code/tech-roadmap.md#week-5前端与数字孪生810-816)
 - [技术依赖图](/green-pilot/code/tech-roadmap.md#技术依赖图)
 - [里程碑检查点](/green-pilot/code/tech-roadmap.md#里程碑检查点)
+
+### [机器人分析](/green-pilot/code/robot-analysis.md)
+
+- [技术维度](/green-pilot/code/robot-analysis.md#技术维度)
+- [商业维度](/green-pilot/code/robot-analysis.md#商业维度)
+- [综合对比](/green-pilot/code/robot-analysis.md#综合对比)
+- [策略建议](/green-pilot/code/robot-analysis.md#策略建议)
+- [结论](/green-pilot/code/robot-analysis.md#结论)
