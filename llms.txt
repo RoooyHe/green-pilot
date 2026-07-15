@@ -1,0 +1,22 @@
+# GreenPilot
+
+> AI零碳温室智能运营平台文档
+
+## 项目核心
+
+- [项目概述](/green-pilot/main.md): GreenPilot项目定位与核心价值，融合AI Agent、数字孪生与农业机器人的温室智能运营平台
+
+## Others
+
+- [训练营介绍](/green-pilot/background/camp-introduction.md): 谷创未来农业机器人创新创业训练营介绍，五周线上+线下培养体系与孵化支持
+- [背景Overview](/green-pilot/background/index.md): GreenPilot项目背景介绍，包含训练营信息和设施农业应用场景
+- [其他队伍](/green-pilot/background/other-team.md): OpenCamp谷创未来前期收集其他参赛组项目
+- [京瓦AI设施农业OPC伙伴计划](/green-pilot/background/platform-scenario.md): GreenPilot五大应用场景，涵盖高GABA番茄、草莓繁育、鲜酒花生产、AI试验管家和零碳温室
+- [商业计划补充](/green-pilot/business/bp-supplement-1.md): 商业计划书补充建议，涵盖定位调整、商业模式画布、团队介绍、市场进入策略和融资规划
+- [商业计划书](/green-pilot/business/business-plan.md): GreenPilot商业计划书，涵盖项目简介、行业痛点、解决方案、产品功能、商业模式和路线图
+- [商业Overview](/green-pilot/business/index.md)
+- [市场分析](/green-pilot/business/market-analysis.md): 设施农业AI决策层市场分析，探讨Agent协同决策、农业Copilot和科研数据管理的差异化竞争策略
+- [系统架构](/green-pilot/code/architecture.md): GreenPilot系统架构，包含AI Agent层、RAG知识库、MCP协议、IoT平台和数据存储的完整技术栈
+- [辰龙 MVP 技术方案](/green-pilot/code/chenlong-mvp.md): GreenPilot与辰龙机器人平台的72小时MVP技术实现方案，涵盖MCP封装、AI决策层和执行闭环
+- [自研 MVP 技术方案](/green-pilot/code/custom-mvp.md): GreenPilot自研MVP技术实现方案，涵盖感知接入、MCP工具链、Agent决策和数字孪生的分期落地路径
+- [代码Overview](/green-pilot/code/index.md)
