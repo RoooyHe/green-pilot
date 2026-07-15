@@ -893,8 +893,6 @@ url: /green-pilot/code/chenlong-mvp.md
 > \[!TIP] 核心思路
 > 摒弃从零搭建的全栈架构，拥抱 `辰龙硬件` ↔ `辰龙平台 API` ↔ `GreenPilot MCP` ↔ `AI Agent`。
 
-***
-
 ## 架构总览
 
 ```text
@@ -1018,8 +1016,6 @@ url: /green-pilot/code/custom-mvp.md
 
 > \[!TIP] 目标
 > 可执行的技术实现逻辑与 MVP（最小可行性产品）实施路径。
-
-***
 
 ## MVP 分期落地路径
 
