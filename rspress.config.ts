@@ -10,12 +10,12 @@ export default defineConfig({
       {
         icon: "github",
         mode: "link",
-        content: "https://github.com/greenpilot",
+        content: "https://github.com/RoooyHe/green-pilot",
       },
     ],
     footer: {
       message:
-        "Released under the MIT License. Copyright &copy; 2024 GreenPilot",
+        "Released under the MIT License. Copyright &copy; 2026 GreenPilot",
     },
   },
   markdown: {

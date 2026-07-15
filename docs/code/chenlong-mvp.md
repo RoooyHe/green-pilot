@@ -7,8 +7,6 @@ description: GreenPilot与辰龙机器人平台的72小时MVP技术实现方案�
 > [!TIP] 核心思路
 > 摒弃从零搭建的全栈架构，拥抱 `辰龙硬件` ↔ `辰龙平台 API` ↔ `GreenPilot MCP` ↔ `AI Agent`。
 
----
-
 ## 架构总览
 
 ```text

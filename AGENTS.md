@@ -8,7 +8,7 @@ GreenPilot — AI零碳温室智能运营平台文档站。纯文档项目，无
 
 ```bash
 bun run dev       # 开发服务器 http://localhost:3000
-bun run build     # 构建到 doc_build/
+bun run build     # 构建到 doc_build/ 并Push到远端构建GithubPage 非主动要求不要构建
 bun run preview   # 预览构建产物 http://localhost:4173
 ```
 

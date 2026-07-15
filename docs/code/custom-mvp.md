@@ -7,8 +7,6 @@ description: GreenPilot自研MVP技术实现方案，涵盖感知接入、MCP工
 > [!TIP] 目标
 > 可执行的技术实现逻辑与 MVP（最小可行性产品）实施路径。
 
----
-
 ## MVP 分期落地路径
 
 ### 阶段 1：感知与 RAG 问答

@@ -1,5 +1,8 @@
 [
   { "type": "file", "name": "architecture", "label": "架构设计" },
   { "type": "file", "name": "chenlong-mvp", "label": "辰龙 MVP" },
-  { "type": "file", "name": "custom-mvp", "label": "自研 MVP" }
+  { "type": "file", "name": "custom-mvp", "label": "自研 MVP" },
+  { "type": "file", "name": "roadmap", "label": "五周路线图" },
+  { "type": "file", "name": "tech-roadmap", "label": "技术路线图" },
+  { "type": "file", "name": "robot-analysis", "label": "机器人分析" }
 ]
