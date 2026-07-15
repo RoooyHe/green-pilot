@@ -20,4 +20,5 @@
 - [辰龙 MVP 技术方案](/green-pilot/code/chenlong-mvp.md): GreenPilot与辰龙机器人平台的72小时MVP技术实现方案，涵盖MCP封装、AI决策层和执行闭环
 - [自研 MVP 技术方案](/green-pilot/code/custom-mvp.md): GreenPilot自研MVP技术实现方案，涵盖感知接入、MCP工具链、Agent决策和数字孪生的分期落地路径
 - [代码Overview](/green-pilot/code/index.md)
+- [五周训练营路线图](/green-pilot/code/roadmap.md): GreenPilot五周训练营完整技术路线图，涵盖技术筑基、场景深耕、商业赋能、项目筛选和线下实战
 - [Week 1 技术路线图](/green-pilot/code/week1-roadmap.md): Week 1技术路线图，涵盖无人机、采摘机器人和辰龙系统的技术学习与硬件搭建计划
