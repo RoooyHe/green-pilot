@@ -10,6 +10,7 @@
     "preview": "rspress preview"
   },
   "dependencies": {
-    "@rspress/core": "^2.0.0"
+    "@rspress/core": "^2.0.0",
+    "rspress-plugin-gh-pages": "^1.0.0"
   }
 }
