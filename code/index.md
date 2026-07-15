@@ -37,3 +37,14 @@
 - [Week 5：线下实战](/green-pilot/code/roadmap.md#week-5线下实战)
 - [里程碑时间线](/green-pilot/code/roadmap.md#里程碑时间线)
 - [关键产出物](/green-pilot/code/roadmap.md#关键产出物)
+
+### [技术路线图](/green-pilot/code/tech-roadmap.md)
+
+- [技术栈总览](/green-pilot/code/tech-roadmap.md#技术栈总览)
+- [Week 1：IoT 接入层（7/13-7/19）](/green-pilot/code/tech-roadmap.md#week-1iot-接入层713-719)
+- [Week 2：MCP 协议层（7/20-7/26）](/green-pilot/code/tech-roadmap.md#week-2mcp-协议层720-726)
+- [Week 3：AI Agent 层（7/27-8/2）](/green-pilot/code/tech-roadmap.md#week-3ai-agent-层727-82)
+- [Week 4：RAG 知识库（8/3-8/9）](/green-pilot/code/tech-roadmap.md#week-4rag-知识库83-89)
+- [Week 5：前端与数字孪生（8/10-8/16）](/green-pilot/code/tech-roadmap.md#week-5前端与数字孪生810-816)
+- [技术依赖图](/green-pilot/code/tech-roadmap.md#技术依赖图)
+- [里程碑检查点](/green-pilot/code/tech-roadmap.md#里程碑检查点)
