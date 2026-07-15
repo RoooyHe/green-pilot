@@ -1,1 +1,5 @@
-[{ "type": "file", "name": "architecture", "label": "架构设计" }]
+[
+  { "type": "file", "name": "architecture", "label": "架构设计" },
+  { "type": "file", "name": "chenlong-mvp", "label": "辰龙 MVP" },
+  { "type": "file", "name": "custom-mvp", "label": "自研 MVP" }
+]

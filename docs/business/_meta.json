@@ -1,4 +1,5 @@
 [
   { "type": "file", "name": "business-plan", "label": "商业计划" },
-  { "type": "file", "name": "market-analysis", "label": "市场分析" }
+  { "type": "file", "name": "market-analysis", "label": "市场分析" },
+  { "type": "file", "name": "bp-supplement-1", "label": "计划补充" }
 ]
